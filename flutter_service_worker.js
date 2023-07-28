@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "425f79f71db56e080146247a087c62a3",
-"assets/AssetManifest.json": "513c152e3e50ae4450ece57ebb255596",
+const RESOURCES = {"assets/AssetManifest.bin": "8aef6ab6761a07720402e2c7b14ac7ef",
+"assets/AssetManifest.json": "46819ad7f90d22628a6b262696e8cf4d",
 "assets/assets/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
 "assets/assets/photos/black-white.jpg": "8448ef6d94786eb23dc214da3978c4ba",
 "assets/assets/photos/colored.jpg": "9c1c90b29d676b7c503aa4dbda757974",
@@ -15,12 +15,17 @@ const RESOURCES = {"assets/AssetManifest.bin": "425f79f71db56e080146247a087c62a3
 "assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
 "assets/assets/projects/multiStore.gif": "3ee99cbc78da22bfbdbe0de63d94f543",
 "assets/assets/projects/multiStoreB.png": "d8392ebd518cae7dae4ec3ba594e066f",
+"assets/assets/projects/pregveda.png": "da5702bee1b5c54d64bac48956bbb213",
+"assets/assets/projects/pregvedaB.png": "dd8abbf602e77e73be3811da7eaef54f",
+"assets/assets/projects/wiserboard.png": "7096368f04430a682a46817fc80f79aa",
+"assets/assets/projects/wiserboardB.png": "120e86e2ce7d55c504036eadbed995bb",
+"assets/assets/projects/wiserstep.png": "10348b6fb7415b10215430875ad60c59",
 "assets/assets/services/app.png": "9d2da88edb7f550ef24874b306b4ae12",
 "assets/assets/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
 "assets/assets/services/gmail.png": "e819b6a8860c9f813501e9dff82a471e",
 "assets/assets/work/prachet.png": "b870b66f4ab7958376fa255916c9efbd",
 "assets/assets/work/wiserli.png": "a29bd81d4464a520108ce93b0ca70c60",
-"assets/data.json": "c527a53ba946bd532db7a129c24ab168",
+"assets/data.json": "c211d70bb0dd867b4f96f29647f3776e",
 "assets/FontManifest.json": "eb13a0d169d41e78994c5d6eb9075409",
 "assets/fonts/agustina/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/fonts/MaterialIcons-Regular.otf": "e544a9972bdbffeb004e390ea45589a5",
@@ -69,11 +74,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "425f79f71db56e080146247a087c62a3
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "95e00cab8fbb42572783814f37150d6d",
 "icons/Icon-512.png": "d55703f9a841532063467a3cafb61835",
-"index.html": "1036852ef8b1ee841a7d94f719d772fa",
-"/": "1036852ef8b1ee841a7d94f719d772fa",
-"main.dart.js": "bfa8b3737cf82b5fc5c17cb2d28dbb7a",
+"index.html": "70653a42ecd3b59a9840eda5d1e3e5f0",
+"/": "70653a42ecd3b59a9840eda5d1e3e5f0",
+"main.dart.js": "f09ec5978df4b859ecdea3fb9aa8de5e",
 "manifest.json": "331231b245a186e850b6631952f13dd8",
-"version.json": "304c060da638f78d0869eebeb274b3ca"};
+"version.json": "61ab7e78e751acd21e20a99f91623680"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
